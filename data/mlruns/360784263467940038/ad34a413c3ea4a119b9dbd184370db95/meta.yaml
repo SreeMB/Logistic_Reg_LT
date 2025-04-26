@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Git_Projects/Logistic_Reg_LT/data/mlruns/360784263467940038/ad34a413c3ea4a119b9dbd184370db95/artifacts
+end_time: 1745695922865
+entry_point_name: ''
+experiment_id: '360784263467940038'
+lifecycle_stage: active
+run_id: ad34a413c3ea4a119b9dbd184370db95
+run_name: Imbalanced_simple_logistic_regression_before_thresholding
+run_uuid: ad34a413c3ea4a119b9dbd184370db95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745695905371
+status: 3
+tags: []
+user_id: sreem

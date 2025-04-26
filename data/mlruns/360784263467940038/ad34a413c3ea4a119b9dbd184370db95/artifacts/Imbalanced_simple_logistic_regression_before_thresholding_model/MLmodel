@@ -1,0 +1,21 @@
+artifact_path: Imbalanced_simple_logistic_regression_before_thresholding_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.22.0
+model_size_bytes: 963
+model_uuid: da0fa9eea0184801baa45d37bf846bfb
+prompts: null
+run_id: ad34a413c3ea4a119b9dbd184370db95
+utc_time_created: '2025-04-26 19:31:55.943279'

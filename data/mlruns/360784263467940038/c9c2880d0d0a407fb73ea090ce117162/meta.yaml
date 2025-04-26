@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Git_Projects/Logistic_Reg_LT/data/mlruns/360784263467940038/c9c2880d0d0a407fb73ea090ce117162/artifacts
+deleted_time: 1745686664545
+end_time: 1745682865930
+entry_point_name: ''
+experiment_id: '360784263467940038'
+lifecycle_stage: deleted
+run_id: c9c2880d0d0a407fb73ea090ce117162
+run_name: simple_logistic_regression
+run_uuid: c9c2880d0d0a407fb73ea090ce117162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745682843780
+status: 3
+tags: []
+user_id: sreem

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Git_Projects/Logistic_Reg_LT/data/mlruns/360784263467940038/bf4c8fdec6fb483a90ec7d46e8c27a4e/artifacts
+deleted_time: 1745686664440
+end_time: 1745684426565
+entry_point_name: ''
+experiment_id: '360784263467940038'
+lifecycle_stage: deleted
+run_id: bf4c8fdec6fb483a90ec7d46e8c27a4e
+run_name: Balanced_simple_logistic_regression_before_thresholding
+run_uuid: bf4c8fdec6fb483a90ec7d46e8c27a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745684410754
+status: 3
+tags: []
+user_id: sreem

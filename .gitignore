@@ -174,5 +174,8 @@ cython_debug/
 .pypirc
 
 # Mlflow
-.mlflow/*
-.data/mlflow/*
+.mlruns/
+.data/mlruns/
+data/*.csv
+data/*.png
+.mlflow/mlruns/
